@@ -1,7 +1,12 @@
 ### Hi there 👋
 Bienvenido a mi Perfil de Github
 <p>
-<input type="datetime-local">
+<form>
+  <div>
+    <label for="bday">Escriba su cumpleaños:</label>
+    <input type="date" id="bday" name="bday">
+  </div>
+</form>
 <p>
 ### MIS CONTACTOS
 <p>
