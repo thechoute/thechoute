@@ -1,5 +1,5 @@
 case 'lista':
-let lista = client.prepareMessageFromContent(from,{
+let lista = leo.prepareMessageFromContent(from,{
 "listMessage": {
 "title": `${pushname}`,
 "description": `Este es un Mensaje de lista`,
