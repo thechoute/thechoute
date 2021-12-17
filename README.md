@@ -1,6 +1,8 @@
 ### Hi there 👋
 Bienvenido a mi Perfil de Github
+I am @thechoute
 
+Is Bot WhatsApp
 ### MIS CONTACTOS
 <p>
 <a href="http://wa.me/18299897014" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
