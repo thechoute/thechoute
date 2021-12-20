@@ -1,6 +1,5 @@
 ### Hi there 👋
 Bienvenido a mi Perfil de Github
-![ban](https://user-images.githubusercontent.com/82709682/146695568-0a02ed88-3489-40c7-ad45-e8c3aec47c2b.jpg)
 
 I am @thechoute
 
